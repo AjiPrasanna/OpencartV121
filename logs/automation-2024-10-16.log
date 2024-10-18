@@ -1,0 +1,58 @@
+17:19:12.241 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+17:50:49.918 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+17:50:50.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+17:50:50.722 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:50:50.752 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+17:52:20.767 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+17:52:21.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+17:52:27.333 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:52:27.889 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+17:52:28.285 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:52:28.289 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide customer details...
+17:52:29.734 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected nessage...
+17:52:29.781 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:52:33.446 [main] INFO  testCases.TC002_LoginTest - *** Stating TC_002_LoginTest ***
+17:52:35.234 [main] INFO  testCases.TC002_LoginTest - *** Finished TC_002_LoginTest ***
+17:54:51.836 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\crossbrowsertesting.xml"
+17:54:52.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\crossbrowsertesting.xml
+
+17:54:52.733 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:54:52.773 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+17:54:57.606 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:54:57.748 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+17:54:58.066 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:54:58.075 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Provide customer details...
+17:54:59.538 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected nessage...
+17:54:59.587 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:58:11.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\crossbrowsertesting.xml"
+17:58:11.673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\crossbrowsertesting.xml
+
+17:58:12.182 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:58:12.225 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+17:58:16.965 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:58:17.622 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+17:58:18.005 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:58:18.011 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Provide customer details...
+17:58:19.336 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected nessage...
+17:58:19.390 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:59:58.452 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+17:59:58.836 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+18:00:03.671 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:00:04.312 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:00:04.728 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:00:04.731 [main] INFO  testCases.TC001_AccountRegistrationTest - Provide customer details...
+18:00:08.248 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected nessage...
+18:00:08.294 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:00:11.785 [main] INFO  testCases.TC002_LoginTest - *** Stating TC_002_LoginTest ***
+18:00:13.946 [main] INFO  testCases.TC002_LoginTest - *** Finished TC_002_LoginTest ***
+18:01:03.083 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"

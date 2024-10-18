@@ -1,0 +1,162 @@
+09:40:08.556 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:40:08.720 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:40:08.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:40:08.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:40:08.825 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:40:08.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:40:08.836 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:40:08.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:40:08.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:40:08.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:40:08.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:40:08.971 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:40:08.972 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:40:09.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:40:09.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:40:09.026 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:40:09.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:40:09.105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:40:09.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:40:09.159 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+09:40:15.976 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+09:40:15.976 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+09:40:18.180 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+09:40:21.090 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+09:40:35.521 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+09:40:35.533 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+09:40:41.285 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+11:43:15.955 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+11:43:16.786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+11:44:27.431 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+11:44:28.071 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+12:15:41.665 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+12:17:47.168 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+12:47:16.212 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+13:01:05.727 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Java_24\OpencartV121\master.xml"
+2024-10-17 18:46:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 18:47:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 18:48:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 18:49:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 18:50:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 18:50:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 18:51:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\grouping.xml
+
+2024-10-17 18:52:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\grouping.xml
+
+2024-10-17 18:52:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\crossbrowsertesting.xml
+
+2024-10-17 18:58:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 18:59:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 19:00:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 19:14:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 19:14:27 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2024-10-17 19:14:32 INFO  TC003_LoginDDT:76 - ***** Finished TC_003_LoginDDT ******
+2024-10-17 19:14:32 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2024-10-17 19:14:35 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2024-10-17 19:14:37 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2024-10-17 19:14:51 INFO  TC003_LoginDDT:76 - ***** Finished TC_003_LoginDDT ******
+2024-10-17 19:14:51 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2024-10-17 19:14:56 INFO  TC003_LoginDDT:76 - ***** Finished TC_003_LoginDDT ******
+2024-10-17 19:15:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 19:15:45 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:15:46 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:16:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 19:16:19 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-17 19:16:19 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-10-17 19:16:20 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-10-17 19:16:20 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2024-10-17 19:16:21 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-10-17 19:16:21 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2024-10-17 19:16:21 INFO  TC001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-17 19:16:24 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:16:26 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:17:25 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-17 19:17:26 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-10-17 19:17:26 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-10-17 19:17:26 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2024-10-17 19:17:28 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-10-17 19:17:28 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2024-10-17 19:17:28 INFO  TC001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-17 19:17:30 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:17:32 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:20:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Java_24\OpencartV121\master.xml
+
+2024-10-17 19:39:42 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:39:44 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:40:40 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-17 19:40:41 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-10-17 19:40:41 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-10-17 19:40:41 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2024-10-17 19:40:43 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-10-17 19:40:43 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2024-10-17 19:40:43 INFO  TC001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-17 19:40:45 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:40:47 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:43:27 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-17 19:43:27 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-10-17 19:43:28 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-10-17 19:43:28 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2024-10-17 19:43:29 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-10-17 19:43:29 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2024-10-17 19:43:29 INFO  TC001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-17 19:43:32 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:43:34 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:45:45 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-17 19:45:45 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-10-17 19:45:46 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-10-17 19:45:46 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2024-10-17 19:45:47 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-10-17 19:45:47 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2024-10-17 19:45:47 INFO  TC001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-17 19:45:50 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:45:52 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:46:45 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-17 19:46:46 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-10-17 19:46:46 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-10-17 19:46:46 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2024-10-17 19:46:47 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-10-17 19:46:47 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2024-10-17 19:46:47 INFO  TC001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-17 19:46:50 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:46:52 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2024-10-17 19:47:44 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-17 19:47:44 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-10-17 19:47:45 INFO  TC001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-10-17 19:47:45 INFO  TC001_AccountRegistrationTest:30 - Providing customer details...
+2024-10-17 19:47:46 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-10-17 19:47:46 INFO  TC001_AccountRegistrationTest:49 - Test passed
+2024-10-17 19:47:46 INFO  TC001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-17 19:47:49 INFO  TC002_LoginTest:17 - ****** Startign TC_002_LoginTest *****
+2024-10-17 19:47:50 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
